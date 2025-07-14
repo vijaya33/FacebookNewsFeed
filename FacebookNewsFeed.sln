@@ -1,0 +1,59 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookNewsFeed", "FacebookNewsFeed\FacebookNewsFeed.csproj", "{467D6E5B-A1E3-426C-BDD9-2B4888B8F06A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookNewsFeed-WebUI", "FacebookNewsFeed-WebUI\FacebookNewsFeed-WebUI.csproj", "{C67CA886-A2CC-4EA7-86A0-5A23DC6441C9}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "reactproject1", "reactproject1\reactproject1.esproj", "{CEC6E8C3-C1F6-C646-E98F-4C172527373D}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "vueproject1", "vueproject1\vueproject1.esproj", "{5372DFA6-0582-C7A0-7C2F-F3435134BB47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookNewsFeed-WebForms-UI", "FacebookNewsFeed-WebForms-UI\FacebookNewsFeed-WebForms-UI.csproj", "{A13743FB-DC37-4DAF-B69A-70AD4EC1748E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FacebookNewsFeed-WebForms-UI.Tests", "FacebookNewsFeed-WebForms-UI.Tests\FacebookNewsFeed-WebForms-UI.Tests.csproj", "{EB3D9F3B-613D-4CE8-8EC0-41ECD892C3D3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{467D6E5B-A1E3-426C-BDD9-2B4888B8F06A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{467D6E5B-A1E3-426C-BDD9-2B4888B8F06A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{467D6E5B-A1E3-426C-BDD9-2B4888B8F06A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{467D6E5B-A1E3-426C-BDD9-2B4888B8F06A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C67CA886-A2CC-4EA7-86A0-5A23DC6441C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C67CA886-A2CC-4EA7-86A0-5A23DC6441C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C67CA886-A2CC-4EA7-86A0-5A23DC6441C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C67CA886-A2CC-4EA7-86A0-5A23DC6441C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC6E8C3-C1F6-C646-E98F-4C172527373D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CEC6E8C3-C1F6-C646-E98F-4C172527373D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CEC6E8C3-C1F6-C646-E98F-4C172527373D}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{CEC6E8C3-C1F6-C646-E98F-4C172527373D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CEC6E8C3-C1F6-C646-E98F-4C172527373D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CEC6E8C3-C1F6-C646-E98F-4C172527373D}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{5372DFA6-0582-C7A0-7C2F-F3435134BB47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5372DFA6-0582-C7A0-7C2F-F3435134BB47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5372DFA6-0582-C7A0-7C2F-F3435134BB47}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{5372DFA6-0582-C7A0-7C2F-F3435134BB47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5372DFA6-0582-C7A0-7C2F-F3435134BB47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5372DFA6-0582-C7A0-7C2F-F3435134BB47}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A13743FB-DC37-4DAF-B69A-70AD4EC1748E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A13743FB-DC37-4DAF-B69A-70AD4EC1748E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A13743FB-DC37-4DAF-B69A-70AD4EC1748E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A13743FB-DC37-4DAF-B69A-70AD4EC1748E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EB3D9F3B-613D-4CE8-8EC0-41ECD892C3D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3D9F3B-613D-4CE8-8EC0-41ECD892C3D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3D9F3B-613D-4CE8-8EC0-41ECD892C3D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3D9F3B-613D-4CE8-8EC0-41ECD892C3D3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {604FEA24-E158-451A-A89D-B3945E6091F4}
+	EndGlobalSection
+EndGlobal
